@@ -73,18 +73,22 @@
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 <!---LeetCode Topics End-->
