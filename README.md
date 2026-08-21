@@ -71,6 +71,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -85,6 +86,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -103,4 +105,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
