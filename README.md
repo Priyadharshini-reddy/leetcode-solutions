@@ -56,6 +56,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,4 +117,16 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
