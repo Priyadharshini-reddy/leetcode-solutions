@@ -76,6 +76,7 @@
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -92,6 +94,7 @@
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -112,4 +115,5 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 <!---LeetCode Topics End-->
