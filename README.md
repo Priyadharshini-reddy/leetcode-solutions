@@ -82,6 +82,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0814-binary-tree-pruning](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0814-binary-tree-pruning](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0814-binary-tree-pruning](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
