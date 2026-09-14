@@ -70,6 +70,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +175,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +185,7 @@
 | [0503-next-greater-element-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +209,7 @@
 | [0402-remove-k-digits](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
