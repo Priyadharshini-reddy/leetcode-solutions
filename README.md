@@ -102,6 +102,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -119,6 +120,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
@@ -141,6 +143,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -152,6 +155,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
