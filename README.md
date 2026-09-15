@@ -99,6 +99,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0687-longest-univalue-path/) | Medium |
@@ -115,6 +116,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0687-longest-univalue-path/) | Medium |
@@ -136,6 +138,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0687-longest-univalue-path/) | Medium |
@@ -174,6 +177,7 @@
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Stack
