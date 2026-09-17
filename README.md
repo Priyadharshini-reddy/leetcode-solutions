@@ -36,6 +36,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@
 | [0687-longest-univalue-path](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +151,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +161,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
