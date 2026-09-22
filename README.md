@@ -234,4 +234,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 <!---LeetCode Topics End-->
