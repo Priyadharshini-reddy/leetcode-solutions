@@ -30,6 +30,7 @@
 | [0075-sort-colors](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
+| [0143-reorder-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sorting
@@ -203,6 +204,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0143-reorder-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -247,9 +249,14 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0143-reorder-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
