@@ -16,6 +16,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -51,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0337-house-robber-iii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0740-delete-and-earn](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
@@ -60,11 +62,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0740-delete-and-earn](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
@@ -197,6 +201,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
@@ -264,4 +269,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
