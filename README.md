@@ -18,6 +18,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0322-coin-change](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -55,6 +56,7 @@
 | [0062-unique-paths](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0322-coin-change](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0740-delete-and-earn](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
@@ -197,6 +199,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0322-coin-change](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
@@ -283,4 +286,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
