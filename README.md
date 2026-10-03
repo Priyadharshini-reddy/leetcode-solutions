@@ -26,6 +26,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +225,7 @@
 | [0503-next-greater-element-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Bracket Sequences
@@ -252,6 +254,7 @@
 | [0402-remove-k-digits](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
@@ -268,6 +271,7 @@
 | [0143-reorder-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
