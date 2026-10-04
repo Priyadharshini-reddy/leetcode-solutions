@@ -84,6 +84,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0740-delete-and-earn](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +279,7 @@
 | [0146-lru-cache](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
