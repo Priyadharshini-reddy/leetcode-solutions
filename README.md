@@ -30,6 +30,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0061-rotate-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -54,6 +55,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
@@ -208,6 +210,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
@@ -308,4 +311,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
