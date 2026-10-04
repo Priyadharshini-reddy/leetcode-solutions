@@ -278,6 +278,7 @@
 | [0143-reorder-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
+| [0707-design-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 ## Merge Sort
@@ -312,6 +313,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
+| [0707-design-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
