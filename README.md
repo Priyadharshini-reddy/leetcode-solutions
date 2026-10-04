@@ -18,6 +18,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +61,7 @@
 | [0062-unique-paths](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -315,4 +318,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
