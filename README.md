@@ -40,6 +40,7 @@
 | [0143-reorder-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +285,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
