@@ -28,6 +28,7 @@
 | [0881-boats-to-save-people](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +236,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1472-design-browser-history](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +283,7 @@
 | [0707-design-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,10 +317,12 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0707-design-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0707-design-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
+| [1472-design-browser-history](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,4 +331,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
