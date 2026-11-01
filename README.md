@@ -110,6 +110,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0077-combinations](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
