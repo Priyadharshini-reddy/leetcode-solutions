@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0062-unique-paths](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@
 | [0062-unique-paths](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0337-house-robber-iii/) | Medium |
@@ -77,6 +79,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +224,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
@@ -244,6 +248,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -297,6 +302,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
