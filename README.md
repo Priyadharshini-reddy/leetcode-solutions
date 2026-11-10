@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0047-permutations-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
@@ -46,6 +47,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
@@ -113,6 +115,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Tree
