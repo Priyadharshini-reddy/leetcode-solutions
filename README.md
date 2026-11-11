@@ -11,6 +11,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0047-permutations-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -36,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0031-next-permutation](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
