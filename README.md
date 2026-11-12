@@ -18,6 +18,7 @@
 | [0057-insert-interval](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0090-subsets-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
@@ -119,6 +120,7 @@
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0077-combinations/) | Medium |
+| [0090-subsets-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -353,4 +355,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0090-subsets-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
