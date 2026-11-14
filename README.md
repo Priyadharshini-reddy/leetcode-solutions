@@ -33,6 +33,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Two Pointers
@@ -81,6 +82,7 @@
 | [0740-delete-and-earn](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,4 +367,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0221-maximal-square](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 <!---LeetCode Topics End-->
