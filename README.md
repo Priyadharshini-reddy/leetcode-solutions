@@ -22,6 +22,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0221-maximal-square](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -128,6 +129,7 @@
 | [0077-combinations](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
