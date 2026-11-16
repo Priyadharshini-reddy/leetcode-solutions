@@ -176,6 +176,7 @@
 | [0814-binary-tree-pruning](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +235,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,4 +374,12 @@
 | ------- | ------- |
 | [0221-maximal-square](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
