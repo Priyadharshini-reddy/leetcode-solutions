@@ -168,6 +168,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0547-number-of-provinces](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -233,6 +234,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0322-coin-change](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0547-number-of-provinces](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -377,9 +379,11 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
