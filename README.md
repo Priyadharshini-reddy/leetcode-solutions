@@ -21,6 +21,7 @@
 | [0090-subsets-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0130-surrounded-regions](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
@@ -162,6 +163,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -235,6 +237,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -379,12 +382,14 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
