@@ -33,6 +33,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0695-max-area-of-island](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0740-delete-and-earn](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0881-boats-to-save-people/) | Medium |
@@ -178,6 +179,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0687-longest-univalue-path/) | Medium |
+| [0695-max-area-of-island](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
@@ -243,6 +245,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0547-number-of-provinces](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0695-max-area-of-island](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -385,6 +388,7 @@
 | [0130-surrounded-regions](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
+| [0695-max-area-of-island](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -392,6 +396,7 @@
 | [0130-surrounded-regions](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
