@@ -33,6 +33,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0740-delete-and-earn](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -86,6 +87,7 @@
 | [0337-house-robber-iii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0518-coin-change-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0740-delete-and-earn](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -244,6 +246,7 @@
 | [0200-number-of-islands](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0542-01-matrix](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
@@ -390,6 +393,7 @@
 | [0130-surrounded-regions](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
+| [0542-01-matrix](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
