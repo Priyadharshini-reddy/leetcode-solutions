@@ -37,6 +37,7 @@
 | [0695-max-area-of-island](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0740-delete-and-earn](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0752-open-the-lock](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -108,6 +109,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0740-delete-and-earn](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
+| [0752-open-the-lock](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 ## Greedy
@@ -250,6 +252,7 @@
 | [0547-number-of-provinces](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0752-open-the-lock](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0994-rotting-oranges](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -263,6 +266,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0606-construct-string-from-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [0752-open-the-lock](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -411,4 +415,8 @@
 | [0547-number-of-provinces](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
