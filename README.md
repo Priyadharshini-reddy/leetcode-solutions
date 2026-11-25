@@ -44,6 +44,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1472-design-browser-history](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -262,6 +263,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -409,6 +411,7 @@
 | [0909-snakes-and-ladders](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
