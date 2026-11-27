@@ -187,6 +187,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0684-redundant-connection](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0695-max-area-of-island](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -257,6 +258,7 @@
 | [0542-01-matrix](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0684-redundant-connection](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0752-open-the-lock](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -418,6 +420,7 @@
 | [0130-surrounded-regions](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
@@ -425,6 +428,7 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Bidirectional Search
