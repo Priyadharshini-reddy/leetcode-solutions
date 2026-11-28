@@ -17,6 +17,7 @@
 | [0056-merge-intervals](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0079-word-search](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -138,6 +139,7 @@
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0077-combinations/) | Medium |
+| [0079-word-search](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0216-combination-sum-iii/) | Medium |
@@ -171,6 +173,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -271,6 +274,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0079-word-search](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0139-word-break](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -405,6 +409,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/Priyadharshini-reddy/leetcode-solutions/tree/main/0221-maximal-square/) | Medium |
